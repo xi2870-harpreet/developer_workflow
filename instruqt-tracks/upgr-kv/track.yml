@@ -19,6 +19,7 @@ tags:
 owner: instruqt-support
 developers:
 - krishna@instruqt.com
+- harpreet@instruqt.com
 timelimit: 2000
 lab_config:
   overlay: false
