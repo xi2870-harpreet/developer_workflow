@@ -18,7 +18,7 @@ blue1 {
 Third Test Run: _Scan rows as efficiently as possible using the right index_
 ===
 <red1>
-	# Write your First Shell Script
+	# Write your First Shell Script via github
 </red1>
 <br>
 <blue1>
