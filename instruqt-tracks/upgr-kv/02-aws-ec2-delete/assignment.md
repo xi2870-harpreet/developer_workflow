@@ -1,6 +1,6 @@
 ---
 slug: aws-ec2-delete
-id: iyfx5zjcmukn
+id: jjbmjxw42vn5
 type: challenge
 title: AWS EC2 instance deletion
 teaser: Use AWS console to manage your EC2 virtual machine.
@@ -8,13 +8,15 @@ notes:
 - type: text
   contents: You just created your EC2 virtual machine, let's try to remove it!
 tabs:
-- title: AWS Console
+- id: zgbs7uyk7h2t
+  title: AWS Console
   type: service
   hostname: cloud-client
   path: /
   port: 80
 difficulty: basic
 timelimit: 600
+enhanced_loading: null
 ---
 
 🚀 Let's start
