@@ -20,9 +20,14 @@ owner: instruqt-support
 developers:
 - krishna@instruqt.com
 - harpreet@instruqt.com
+idle_timeout: 300
 timelimit: 2000
 lab_config:
-  overlay: false
-  width: 33
-  position: right
-checksum: "16469056747541783154"
+  sidebar_enabled: true
+  feedback_recap_enabled: true
+  feedback_tab_enabled: false
+  loadingMessages: true
+  override_challenge_layout: false
+  hideStopButton: false
+checksum: "4489417030374643710"
+enhanced_loading: false
