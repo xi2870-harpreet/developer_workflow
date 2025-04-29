@@ -1,6 +1,6 @@
 ---
 slug: aws-ec2-create
-id: ptfz0retmcz2
+id: qepqm9ddsgeo
 type: challenge
 title: Create an AWS EC2 instance
 teaser: Every cloud starts from VM
@@ -11,11 +11,11 @@ notes:
 
     Please wait while we provision the AWS account.
 tabs:
-- id: m3tulxhxdjot
+- id: 2ydnh5sykumm
   title: Cloud CLI
   type: terminal
   hostname: cloud-client
-- id: 9ulhgngut1or
+- id: voxnxydsdxfn
   title: AWS Console
   type: service
   hostname: cloud-client
